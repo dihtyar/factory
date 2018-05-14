@@ -2,51 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f9ed247b-df11-4f8f-b338-65aa5071850d" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/email-campaignmonitor.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/images/bg-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/images/facebook-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/images/g1-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/images/images.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/images/img-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/images/img-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/images/in-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/images/logofooter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/campaignmonitor/images/twiter-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/email-eloqua-example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/email-eloqua.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/images/bg-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/images/facebook-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/images/g1-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/images/img-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/images/img-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/images/in-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/images/logofooter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/eloqua/images/twiter-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp.zip" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp/email-mailchimp.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp/images/bg-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp/images/facebook-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp/images/g1-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp/images/img-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp/images/img-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp/images/in-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp/images/logofooter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/mailchimp/images/twiter-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/email-marketo-example.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/email-marketo.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/images/bg-header.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/images/facebook-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/images/g1-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/images/img-left.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/images/img-right.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/images/in-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/images/logo.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/images/logofooter.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/email templates/marketo/images/twiter-w.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index-test-mailchimp.zip" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -64,8 +19,8 @@
       <file leaf-file-name="email-eloqua-example.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/email-5/eloqua/email-eloqua-example.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="494" column="66" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="981" selection-end-column="7" />
+            <state relative-caret-position="167">
+              <caret line="494" column="66" lean-forward="true" selection-start-line="494" selection-start-column="66" selection-end-line="494" selection-end-column="66" />
               <folding>
                 <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -400,7 +355,7 @@
       <workItem from="1526231334259" duration="1279000" />
       <workItem from="1526289000510" duration="2227000" />
       <workItem from="1526309444548" duration="2701000" />
-      <workItem from="1526324752709" duration="6177000" />
+      <workItem from="1526324752709" duration="6360000" />
     </task>
     <task id="LOCAL-00001" summary="marketo simple">
       <created>1525777034373</created>
@@ -434,11 +389,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="52294000" />
+    <option name="totallyTimeSpent" value="52477000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.062697574" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -446,7 +400,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32998884" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -2374,8 +2328,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/email-5/eloqua/email-eloqua-example.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="494" column="66" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="981" selection-end-column="7" />
+        <state relative-caret-position="167">
+          <caret line="494" column="66" lean-forward="true" selection-start-line="494" selection-start-column="66" selection-end-line="494" selection-end-column="66" />
           <folding>
             <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#body#0;n#html#0;n#!!top" expanded="true" />
